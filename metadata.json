@@ -1,0 +1,6 @@
+{
+  "name": "Стоматология Кызыл-Кия",
+  "description": "Современная стоматологическая клиника в городе Кызыл-Кия: лечение без боли, честные цены в сомах, бесплатный осмотр и быстрая запись в WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
